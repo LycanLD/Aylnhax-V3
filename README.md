@@ -7,13 +7,13 @@ This project is made to help new modders learn from the UI structure, layout and
 ## Purpose
 - Learn how mod ImGui menus/UI are structured
 - Study code organization and rendering
-- Use as a base to build your own projects
+- Use as a base to build your own mod
 
 ## Important Notice
 Offsets, feature implementations, and bypass methods have been **intentionally removed**.
 
 This is done to:
-- Prevent copy-pasters reselling
+- Prevent fake devs reselling it
 - Encourage learning and development
 - Avoid misuse of the project for scamming
 
