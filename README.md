@@ -4,6 +4,8 @@
 AYLNHAX V3 is an open-source Call of Duty: Mobile mod created for **educational purposes only**.  
 This project is made to help new modders learn from the UI structure, layout and design.
 
+## UI Preview
+![AYLNHAX V3 UI](https://github.com/LycanLD/Aylnhax-V3/blob/main/Assets/photo_2026-03-30_20-00-07.jpg?raw=true)
 ## Purpose
 - Learn how mod ImGui menus/UI are structured
 - Study code organization and rendering
