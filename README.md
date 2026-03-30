@@ -1,4 +1,4 @@
-# AYLNHAX V3 — COD:M Mod Source
+# AYLNHAX V3 - COD:M Mod Src
 
 ## Overview
 AYLNHAX V3 is an open-source Call of Duty: Mobile mod created for **educational purposes only**.  
